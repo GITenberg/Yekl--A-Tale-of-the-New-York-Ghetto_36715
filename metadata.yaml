@@ -1,0 +1,30 @@
+_repo: Yekl--A-Tale-of-the-New-York-Ghetto_36715
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cahan, Abraham
+    birthdate: 1860
+    deathdate: 1951
+    gutenberg_agent_id: '1031'
+    url: http://www.gutenberg.org/2009/agents/1031
+    wikipedia: http://en.wikipedia.org/wiki/Abraham_Cahan
+description: ''
+gutenberg_issued: '2011-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36715'
+  lccn: 06021875
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jewish fiction'
+- !lcc 'PS'
+- !lcsh 'Jews -- New York (State) -- New York -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+title: 'Yekl: A Tale of the New York Ghetto'
+url: http://www.gutenberg.org/ebooks/36715
