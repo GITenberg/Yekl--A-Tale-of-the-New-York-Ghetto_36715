@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1031
     wikipedia: http://en.wikipedia.org/wiki/Abraham_Cahan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36715#Yekl--A-Tale-of-the-New-York-Ghetto
 gutenberg_issued: '2011-07-12'
 gutenberg_type: Text
 identifiers:
